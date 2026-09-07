@@ -45,7 +45,7 @@ I enjoy creating modern applications, exploring new technologies and turning ide
 
 <!-- <br><br> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saintfather08&hide_border=true&background=00000000&ring=00A86B&fire=00A86B&currStreakLabel=00A86B"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saintfather08&hide_border=true&background=00000000&ring=00E5FF&fire=00FF9D&currStreakLabel=00E5FF&sideLabels=5CFFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CFFF3"/>
 
 </div>
 
