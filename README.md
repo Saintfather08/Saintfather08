@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 ```text
-👋 Hi! I'm YOUR_NAME
+
 
 💻 Developer
 🧠 Problem Solver
