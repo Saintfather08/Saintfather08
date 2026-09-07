@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09001F,25:24104F,50:4B207F,72:008F83,88:00B894,100:063B2B&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=5DE6C1&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Saintfather08;E+N+J+O+Y+-+W+A+T+C+H+I+N+G)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=50&pause=1000&color=5DE6C1&center=true&vCenter=true&width=700&lines=Добро+пожаловать+в+мой+Профиль!^_^;Saintfather08;П+Р+И+Я+Т+Н+О+Г+О+-+П+Р+О+С+М+О+Т+Р+А)](https://git.io/typing-svg)
 
 
 
